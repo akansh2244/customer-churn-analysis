@@ -33,9 +33,6 @@ The telecom company needs to identify which customers are likely to churn and wh
 
 **Overall risk profile:** A new customer, on a month-to-month contract, paying high monthly charges via electronic check, without tech support, is the company's highest-risk segment for churn — a clear target for a retention campaign.
 
-## Dashboard Screenshot
-
-![Churn Dashboard](dashboard_screenshot.png)
 
 ## Repository Structure
 
